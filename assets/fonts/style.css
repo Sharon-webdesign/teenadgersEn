@@ -1,0 +1,15 @@
+@font-face {
+   font-family: 'font';
+   font-display: swap;
+   src: url('font/font.ttf');
+}
+@font-face {
+   font-family: 'KeepCalm-Medium';
+   font-display: swap;
+   src: url('KeepCalm-Medium/font.ttf');
+}
+@font-face {
+   font-family: 'regular';
+   font-display: swap;
+   src: url('regular/font.ttf');
+}
